@@ -5,7 +5,7 @@ H5BP-Multi-Layer-FavIcons
 
 Standing on the shoulders of giants I offer this tweaked photoshop template to help create both the Touch icons for a site as well as a multi-layered favicon utilising the currently recommended ratios!
 
-Based on the work of Hans Christian Rienl, this template will hopefully streamline your touch and favourite icon creation.
+Based on the work of Hans Christian Rienl, and following in the footsteps of others, this template will hopefully streamline your touch and favourite icon creation.
 
 Once you've opened this template in Photoshop follow these simple steps to icon bliss in 10 minutes or less:
 
