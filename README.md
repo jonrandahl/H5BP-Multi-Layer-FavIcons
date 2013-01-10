@@ -11,20 +11,22 @@ Once you've opened this template in Photoshop follow these simple steps to icon 
 
 ##Simple steps:##
 1. Double click the 144x144 smart object layer
-2. Add your icon 
-3. Save psb
-4. Choose "Save for web" 
-5. Shift-click each icon slice to add
-6. Choose "Selected slices" 
-7. Choose "Save"
-8. Choose location
-9. Open location when save is complete
-10. Right-click "MultiLayer1-195x195.png" image and choose "Open with ..." locate "GIMP"
-11. Right-click canvas and choose "Import as layers" 
-12. Select all other 5 MultiLayer images sequentially
-13. Once loaded, choose "Save as"
-14. Rename file as "favicon.ico" including extension
-Done!
+2. Add your icon to the newly opened psb
+3. After editing the contents, choose "File > Save" to commit the changes 
+4. View PSD again ... Voilà!
+5. Choose "File > Save for web" 
+6. Shift-click each icon slice to add in the dialogue
+7. Choose "Selected slices" from the "Slices" dropdown
+8. Click "Save"
+9. Choose your file location
+10. Open same file location when save completed
+11. Right-click the newly generated "MultiLayer1-195x195.png" image
+12. Choose "Open with ..." locate "GIMP"
+13. Once opened in Gimp, Right-click the canvas and choose "File > Open as layers" 
+14. Select the 5 other MultiLayer images sequentially
+15. Once loaded, and ordered as desired, choose "File > Save As"
+16. Rename file as "favicon.ico", thereby overwriting the current extension, and click "Save"
+17. Bazinga!
 
 ###Related Links:###
 * http://mathiasbynens.be/notes/touch-icons
