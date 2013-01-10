@@ -1,6 +1,6 @@
 ![H5BP-Multi-Layer-FavIcons](https://raw.github.com/jonrandahl/H5BP-Multi-Layer-FavIcons/master/images/multilayer.png)
 
-H5BP-Multi-Layer-FavIcons
+H5BP Multi-Layer FavIcons
 =========================
 
 Standing on the shoulders of giants I offer this tweaked photoshop template to help create both the Touch icons for a site as well as a multi-layered favicon utilising the currently recommended ratios!
@@ -33,3 +33,7 @@ Done!
 * http://www.thedorkreport.com/favicon-apple-touch-icon-adobe-fireworks-template/
 * http://egressive.com/tutorial/creating-a-multi-resolution-favicon-including-transparency-with-the-gimp
 * http://www.gimp.org/
+
+
+Thanks to all for their hard work before me!
+[@precisioncoding](https://twitter.com/precisioncoding)
