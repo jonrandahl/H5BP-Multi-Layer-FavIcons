@@ -1,4 +1,4 @@
-![H5BP-Multi-Layer-FavIcons](/images/mulitlayer.png)
+![H5BP-Multi-Layer-FavIcons](/images/multilayer.png)
 
 H5BP-Multi-Layer-FavIcons
 =========================
