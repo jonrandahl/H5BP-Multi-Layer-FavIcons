@@ -24,9 +24,11 @@ Once you've opened this template in Photoshop follow these simple steps to icon 
 12. Choose "Open with ..." locate "GIMP"
 13. Once opened in Gimp, Right-click the canvas and choose "File > Open as layers" 
 14. Select the 5 other MultiLayer images sequentially
-15. Once loaded, and ordered as desired, choose "File > Save As"
+15. Once loaded, and ordered as desired, choose "File > Save As" OR "File > Export"**
 16. Rename file as "favicon.ico", thereby overwriting the current extension, and click "Save"
 17. Bazinga!
+
+** Please note: Gimp prior to v2.8 used the "Save As" command to export accordingly, version 2.8 or greater uses the "Export" command instead; thanks to [Linuxbastard](https://github.com/linuxbastard) for pointing this out!
 
 ###Related Links:###
 * http://mathiasbynens.be/notes/touch-icons
