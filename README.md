@@ -38,6 +38,7 @@ Once you've opened this template in Photoshop follow these simple steps to icon 
 * http://drublic.de/blog/html5-boilerplate-favicons-psd-template/
 * http://www.thedorkreport.com/favicon-apple-touch-icon-adobe-fireworks-template/
 * http://egressive.com/tutorial/creating-a-multi-resolution-favicon-including-transparency-with-the-gimp
+* http://blog.lavoie.sl/2012/11/multi-resolution-favicon-using-imagemagick.html
 * http://www.gimp.org/
 
 
