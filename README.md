@@ -11,7 +11,7 @@ Based on the work of Hans Christian Rienl, and following in the footsteps of oth
 
 Once you've opened this template in Photoshop follow these simple steps to icon bliss in 10 minutes or less:
 
-##Simple steps:##
+## Simple steps: 
 1. Double click the 144x144 smart object layer
 2. Add your icon to the newly opened psb
 3. After editing the contents, choose "File > Save" to commit the changes 
@@ -32,7 +32,7 @@ Once you've opened this template in Photoshop follow these simple steps to icon 
 
 ** Please note: Gimp prior to v2.8 used the "Save As" command to export accordingly, version 2.8 or greater uses the "Export" command instead; thanks to [Linuxbastard](https://github.com/linuxbastard) for pointing this out!
 
-###Related Links:###
+### Related Links: 
 * http://mathiasbynens.be/notes/touch-icons
 * http://www.netmagazine.com/features/create-perfect-favicon
 * http://drublic.de/blog/html5-boilerplate-favicons-psd-template/
